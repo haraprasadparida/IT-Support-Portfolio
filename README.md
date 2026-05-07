@@ -53,5 +53,4 @@ Each section contains:
 
 ---
 
----
-*Last Updated: [Date]*
+
