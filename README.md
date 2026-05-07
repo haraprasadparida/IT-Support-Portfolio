@@ -24,7 +24,7 @@ Each section contains:
 
 | # | Pillar | Topics Covered |
 |---|--------|---------------|
-| 1 | [Windows OS](./01-Windows-OS/) | Installation, Drivers, BitLocker, Tools |
+| 1 | [Windows OS](https://github.com/haraprasadparida/IT-Support-Portfolio/tree/main/1.%20WIndows%20OS) | Installation, Drivers, BitLocker, Tools |
 | 2 | [Networking](./02-Networking/) | LAN, WAN, DHCP, DNS, Packet Tracer Labs |
 | 3 | [Printers](./03-Printers/) | Local, Network, Print Server, Spooler |
 | 4 | [Office & O365](./04-Office-O365/) | Outlook, Teams, Admin Portal |
