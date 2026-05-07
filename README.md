@@ -25,11 +25,11 @@ Each section contains:
 | # | Pillar | Topics Covered |
 |---|--------|---------------|
 | 1 | [Windows OS](https://github.com/haraprasadparida/IT-Support-Portfolio/tree/main/1.%20WIndows%20OS) | Installation, Drivers, BitLocker, Tools |
-| 2 | [Networking](./02-Networking/) | LAN, WAN, DHCP, DNS, Packet Tracer Labs |
-| 3 | [Printers](./03-Printers/) | Local, Network, Print Server, Spooler |
-| 4 | [Office & O365](./04-Office-O365/) | Outlook, Teams, Admin Portal |
-| 5 | [Ticketing & ITIL](./05-Ticketing-ITIL/) | P1/P2/P3, SLA, Templates |
-| 6 | [Security & Remote](./06-Security-Remote/) | BitLocker, RDC, VNC, Backups |
+| 2 | [Networking](https://github.com/haraprasadparida/IT-Support-Portfolio/tree/main/2.%20Networking) | LAN, WAN, DHCP, DNS, VPN, Packet Tracer Labs |
+| 3 | [Printers](https://github.com/haraprasadparida/IT-Support-Portfolio/tree/main/3.%20Printers) | Local, Network, Print Server, Spooler |
+| 4 | [Office & O365](https://github.com/haraprasadparida/IT-Support-Portfolio/tree/main/4.%20Office%20and%20O365) | Outlook, Teams, Admin Portal |
+| 5 | [Ticketing & ITIL](https://github.com/haraprasadparida/IT-Support-Portfolio/tree/main/5.%20Ticketing%20and%20ITIL) | P1/P2/P3, SLA, Templates |
+| 6 | [Security & Remote](https://github.com/haraprasadparida/IT-Support-Portfolio/tree/main/6.%20Security%20and%20Remote) | BitLocker, RDC, VNC, Backups |
 
 ---
 
@@ -39,18 +39,8 @@ Each section contains:
 ![Cisco](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?logo=cisco)
 ![Microsoft](https://img.shields.io/badge/Microsoft-365-D83B01?logo=microsoft-office)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell)
-
----
-
-## 📈 Learning Progress
-
-- [x] Pillar 1: Windows OS
-- [ ] Pillar 2: Networking
-- [ ] Pillar 3: Printers
-- [ ] Pillar 4: Office & O365
-- [ ] Pillar 5: Ticketing & ITIL
-- [ ] Pillar 6: Security & Remote
-
+![ForticlientVPN](![FortiClient](https://shields.io)
+)
 ---
 
 
