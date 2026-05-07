@@ -39,7 +39,7 @@ Each section contains:
 ![Cisco](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?logo=cisco)
 ![Microsoft](https://img.shields.io/badge/Microsoft-365-D83B01?logo=microsoft-office)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell)
-![ForticlientVPN](![FortiClient](https://shields.io)
+![ForticlientVPN](![FortiClient](https://img.shields.io/badge/ForticlientVPN-0078D6?logo=ForticlientVPN)
 
 ---
 
