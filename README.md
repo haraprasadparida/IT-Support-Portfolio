@@ -9,7 +9,7 @@
 ## 👋 About This Portfolio
 
 This repository documents my hands-on learning journey 
-toward becoming a professional Desktop Support Engineer.
+toward becoming a professional Desktop Support Engineer and IT Engineer.
 
 Each section contains:
 - ✅ Practical lab exercises
