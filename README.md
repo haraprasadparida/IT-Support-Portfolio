@@ -40,7 +40,7 @@ Each section contains:
 ![Microsoft](https://img.shields.io/badge/Microsoft-365-D83B01?logo=microsoft-office)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell)
 ![ForticlientVPN](![FortiClient](https://shields.io)
-)
+
 ---
 
 
