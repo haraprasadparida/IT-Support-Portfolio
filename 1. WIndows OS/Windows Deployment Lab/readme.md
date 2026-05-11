@@ -15,7 +15,10 @@ Windows ADK (Assessment and Deployment Kit)
 
 ## Detailed docs:
 
-- [Documentation] (https://github.com/haraprasadparida/IT-Support-Portfolio/blob/main/1.%20WIndows%20OS/Windows%20Deployment%20Lab/Documentation/Project-doc.md)
+## Detailed Docs
+
+[Documentation](https://github.com/haraprasadparida/IT-Support-Portfolio/blob/main/1.%20WIndows%20OS/Windows%20Deployment%20Lab/Documentation/Project-doc.md)
+
 
 ## Reference Material:
 
